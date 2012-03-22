@@ -1,0 +1,31 @@
+{
+    success: true,
+
+	"browsers": [
+        {
+			"model": "Chrome",
+			"version": 9,  
+			"company": "Google"
+		},
+        {
+			"model": "Firefox", 
+			"version": 10, 
+			"company": "Mozzilla Corporation"
+		},
+        {
+			"model": "IE", 
+			"version": 9, 
+			"company": "Microsoft"
+		},
+        {
+			"model": "Opera", 
+			"version": 8, 
+			"company": "Opera Software"
+		},
+        {
+			"model": "Safari", 
+			"version": 8, 
+			"company": "Apple"
+		}	
+    ]
+}

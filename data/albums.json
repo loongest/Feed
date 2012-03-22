@@ -1,0 +1,38 @@
+{
+    "success" : true,
+	
+	"albums" : [
+		{
+			"id" : 1,
+			"artis" 		: "The Temptations",
+			"album" 		: "The Ultimate Collection",
+			"thumnailUrl" 	: "http://localhost:8080/lastfmdemo/thumnails/1.png",
+			"releasedDate" 	: "9/3/2010",
+			"tracks"		: "21 tracks"
+		},
+		{
+			"id" : 2,
+			"artis" 		: "Barry White",
+			"album" 		: "The Ultimate Collection",
+			"thumnailUrl" 	: "http://localhost:8080/lastfmdemo/thumnails/2.png",
+			"releasedDate" 	: "14/7/2010",
+			"tracks"		: "17 tracks"
+		},
+		{
+			"id" : 3,
+			"artis" 		: "Enycah Badu",
+			"album" 		: "Baduizm",
+			"thumnailUrl" 	: "http://localhost:8080/lastfmdemo/thumnails/3.png",
+			"releasedDate" 	: "16/2/2009",
+			"tracks"		: "15 tracks"
+		},
+		{
+			"id" : 4,
+			"artis" 		: "Duffy",
+			"album" 		: "Rockferry",
+			"thumnailUrl" 	: "http://localhost:8080/lastfmdemo/thumnails/4.png",
+			"releasedDate" 	: "2/3/2009",
+			"tracks"		: "17 tracks"
+		}
+	]
+}
